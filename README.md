@@ -9,6 +9,19 @@
 </p>
 
 ---
+
+## 📂 Project Files
+
+### 📊 Excel Dashboard
+[Download Excel Dashboard](./Zomato_Restaurant_Expansion_Analysis.xlsx)
+
+### 📑 Project Presentation
+[Download Presentation](./Zomato_Restaurant_Expansion_Analysis.pptx)
+
+### 📄 Project Report
+[Download Report](./Project_Report.docx)
+
+---
 # 🍽️ Zomato Restaurant Expansion Analysis
 
 ## 📖 Project Overview

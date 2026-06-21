@@ -1,3 +1,14 @@
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard_preview.jpg" alt="Dashboard Preview" width="1000">
+</p>
+
+<p align="center">
+  <b>Zomato Restaurant Expansion Analysis Dashboard</b>
+</p>
+
+---
 # 🍽️ Zomato Restaurant Expansion Analysis
 
 ## 📖 Project Overview
